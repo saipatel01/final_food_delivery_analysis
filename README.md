@@ -1,4 +1,4 @@
-# Food Delivery Dataset Integration & Analysis
+# Food Delivery Dataset Integration & Analysis - Gen AI Internship
 
 This repository contains the final submission for the GenAI Internship assessment.  
 The objective of this project is to integrate multiple data sources into a single dataset and perform analytical queries to extract meaningful insights.
